@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Hayotillo  and I'm .net developer 👋
 <img   align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
 
 <!--
