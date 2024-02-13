@@ -1,4 +1,6 @@
-### Hi there my name is Hayotillo  and I'm .net developer 👋
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;Hayotillo; and +I'm +.net +developer!">
+</h3>
 <img   align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
 
 <!--
@@ -59,3 +61,6 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tursunboev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
