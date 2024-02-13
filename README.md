@@ -1,10 +1,9 @@
 ###
 
-<h3 align="center">
+<h3 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;+Hayotillo;+and+I'm+.net+developer!">
 </h3>
-<img   align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
-<h1 align="center">
+<h1 align="right">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Sardor👨‍💻&center=true&size=30">
   </a>
@@ -24,6 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img   align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
 
 <div id="header" align="center">
 <div id="badges">
