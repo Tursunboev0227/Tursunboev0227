@@ -1,8 +1,4 @@
 ###
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;+Hayotillo;+and+I'm+.net+developer!">
-</h3>
-<img   align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
 <hr>
 <p align=center>
   <div align=center>
@@ -16,6 +12,10 @@
   <br><br><br>  <br><br><br>
   <br>
 </p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;+Hayotillo;+and+I'm+.net+developer!">
+</h3>
+<img   align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
 
 <!--
 **tursunboev/tursunboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
