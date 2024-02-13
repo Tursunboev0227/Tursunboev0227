@@ -1,12 +1,8 @@
 ###
 
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;+Hayotillo;+and+I'm+.net+developer!">
-  </a>
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</h1>
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;+Hayotillo;+and+I'm+.net+developer!">
+<\3>
 <!--
 **tursunboev/tursunboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
+
 <img   align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
 
 <div id="header" align="center">
@@ -71,4 +67,3 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tursunboev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-</p>
