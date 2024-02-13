@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img  id="header" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
+<img   align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
 
 <!--
 **tursunboev/tursunboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
