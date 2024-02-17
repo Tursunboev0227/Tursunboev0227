@@ -62,6 +62,15 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tursunboev/tursunboev/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tursunboev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
