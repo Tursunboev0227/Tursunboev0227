@@ -63,12 +63,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tursunboev/tursunboev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AcciGen/AcciGen/output/snake.svg" alt="Snake animation" />
 
 ###
 
