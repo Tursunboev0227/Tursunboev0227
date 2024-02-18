@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tursunboev0227/Tursunboev0227/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tursunboev0227/tursunboev/Tursunboev0227/tursunboev/output/snake.svg" alt="Snake animation" />
 
 ###
 
