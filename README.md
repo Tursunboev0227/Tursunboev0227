@@ -1,8 +1,7 @@
-###
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;+Hayotillo;+and+I'm+.net+developer!">
 </h3>
-<img   align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tursunboev.tursunboev.issue.1" />
 
 <!--
 **tursunboev/tursunboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,12 +27,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/tursunboyev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 </div>
 </div>
-  <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,postgresql,python,cpp,c,dotnet" /><br>
@@ -43,13 +42,13 @@ Here are some ideas to get you started:
 </div>
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=tursunboev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tursunboev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=tursunboev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=tursunboev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/>
  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tursunboev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tursunboev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
   
 </div>
@@ -65,12 +64,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=tursunboev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <br/>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Tursunboev0227/tursunboev/Tursunboev0227/tursunboev/output/snake.svg" alt="Snake animation" />
-
-###
-
 
