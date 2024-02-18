@@ -18,28 +18,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-<div id="badges">
-  <a href="https://www.instagram.com/tursunboev_0227/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a> 
-  <a href="https://t.me/hayotilla_tursunbaev">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tursunboev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="center">
+  <div id="badges">
+    <a href="https://www.instagram.com/tursunboev_0227/">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a> 
+    <a href="https://t.me/hayotilla_tursunbaev">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/tursunboev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
-</div>
-</div>
+
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,postgresql,python,cpp,c,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=dapper,vscode,linkedin,mysql,cs,visualstudio,mongodb" /><br>
 </div>
-</div>
-</div>
+
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
 <div align="center">
@@ -51,7 +50,6 @@ Here are some ideas to get you started:
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tursunboev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
   
-</div>
 <br/><br/>
 <hr/>
 
@@ -61,10 +59,9 @@ Here are some ideas to get you started:
 
 <br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tursunboev0227&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tursunboev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <br/>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tursunboev0227/Tursunboev0227/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/Tursunboev/tursunboev/Tursunboev0227/output/snake.svg" alt="Snake animation" />
