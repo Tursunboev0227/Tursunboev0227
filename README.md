@@ -62,7 +62,8 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tursunboev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 ###
 
 <br clear="both">
@@ -71,5 +72,4 @@ Here are some ideas to get you started:
 
 ###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tursunboev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
