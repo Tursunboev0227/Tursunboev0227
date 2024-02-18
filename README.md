@@ -61,9 +61,10 @@ Here are some ideas to get you started:
 </h3>
 
 <br/>
-<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tursunboev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<br/>
+
 ###
 
 <br clear="both">
