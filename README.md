@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,postgresql,python,cpp,c,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,csharp" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,csh" /><br>
 </div>
 
 <h2 align="center">⚡️ Stats ⚡️</h2>
