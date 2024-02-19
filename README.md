@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 </h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akramjon009&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tursunboev0227&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
