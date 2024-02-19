@@ -49,9 +49,7 @@ Here are some ideas to get you started:
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akramjon009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akramjon009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tursunboev0227&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
   
 <br/><br/>
 <hr/>
