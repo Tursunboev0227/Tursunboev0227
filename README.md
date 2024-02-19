@@ -57,7 +57,6 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message;+on+telegram+,+instagram+and+linkedin!;I'm+always+down+to+collab+!">
 </h3>
 
-<br>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tursunboev0227&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Akramjon009&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
