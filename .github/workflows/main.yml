@@ -13,9 +13,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          # Update to use Node.js 20
-          node-version: '20'
 
       - name: Generate snake
         uses: Platane/snk@master
