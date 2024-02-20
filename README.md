@@ -62,3 +62,5 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tursunboev0227&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+##
+![snake gif](https://github.com/Tursunboev0227/Tursunboev0227/blob/output/github-contribution-grid-snake.gif)
