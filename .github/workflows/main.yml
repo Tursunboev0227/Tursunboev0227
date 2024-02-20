@@ -4,7 +4,6 @@ on:
   schedule:
     # Run every 6 hours
     - cron: "0 */6 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -14,6 +13,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          # Update to use Node.js 20
+          node-version: '20'
 
       - name: Generate snake
         uses: Platane/snk@master
