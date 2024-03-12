@@ -60,6 +60,35 @@
   </a>
 </div>
 
+<h2 align="center">⚡️ Stats ⚡️</h2>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Profile+views">
+</h3>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Tursunboev0227/count.svg?"  />
+</div>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Tursunboev0227&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+  <br/>
+ <br/>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akramjon009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tursunboev0227&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+</div>
+  
+</div>
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message;+on+telegram+,+instagram+and+linkedin!;I'm+always+down+to+collab+🙂">
+</h3>
+
 ###
 
 <br clear="both">
