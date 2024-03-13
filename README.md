@@ -6,7 +6,7 @@
 ###
 
 <a href="https://github.com/Tursunboev0227/Tursunboev0227">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tursunboev0227&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height=300 alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tursunboev0227&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height=200 lt="languages graph"  />
 </di
 
 </a>
