@@ -6,7 +6,7 @@
 ###
 
 <a href="https://github.com/Tursunboev0227/Tursunboev0227">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tursunboev0227&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
 </a>
 
 ###
