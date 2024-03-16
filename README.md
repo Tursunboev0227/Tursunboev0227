@@ -5,8 +5,8 @@
 
 ###
 
-<a href="https://github.com/Tursunboev0227/Tursunboev0227">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tursunboev0227&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&token=YOUR_PERSONAL_ACCESS_TOKEN" height=200 alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tursunboev0227&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height=200 alt="languages graph" />
+
 
 <a href="https://github.com/Tursunboev0227/Tursunboev0227">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tursunboev0227&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
